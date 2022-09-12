@@ -1,1 +1,1 @@
-This is a simple registration form built with PHP.
+This is a simple registration form built with PHP, HTML.
